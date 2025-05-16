@@ -1,6 +1,7 @@
 BLOG WEB APP
 
-  -jango ~=5.0.0
+  -Django ~=5.0.0
+  
   -MySQL
   
   - CRUD
